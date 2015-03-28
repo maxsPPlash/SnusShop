@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\zallop1\zallop1\bin\Debug\zallop1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\bin\Debug\zallop1.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\bin\Debug\zallop1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\obj\Debug\zallop1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\obj\Debug\zallop1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\obj\Debug\zallop1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\obj\Debug\zallop1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\obj\Debug\zallop1.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\zallop1\zallop1\obj\Debug\zallop1.pdb
