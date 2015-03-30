@@ -19,14 +19,14 @@ namespace ADONET_L1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'snusDB.Product' table. You can move, or remove it, as needed.
-            this.productTableAdapter.Fill(this.snusDB.Product);
-
+            this.ordersTableAdapter.Fill(this.dataSet1.Orders);
+            this.usersTableAdapter.Fill(this.dataSet1.Users);
+            this.productTableAdapter.Fill(this.dataSet1.Product);
         }
 
         private void Save_Btn_Click(object sender, EventArgs e)
         {
-            productTableAdapter.Update(snusDB.Product);
+            productTableAdapter.Update(dataSet1.Product);
         }
     }
 }

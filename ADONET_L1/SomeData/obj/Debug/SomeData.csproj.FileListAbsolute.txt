@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ADONET_L1\SomeData\bin\Debug\SomeData.dll.config
-c:\users\admin\documents\visual studio 2012\Projects\ADONET_L1\SomeData\bin\Debug\SomeData.dll
-c:\users\admin\documents\visual studio 2012\Projects\ADONET_L1\SomeData\bin\Debug\SomeData.pdb
-c:\users\admin\documents\visual studio 2012\Projects\ADONET_L1\SomeData\obj\Debug\SomeData.dll
-c:\users\admin\documents\visual studio 2012\Projects\ADONET_L1\SomeData\obj\Debug\SomeData.pdb
